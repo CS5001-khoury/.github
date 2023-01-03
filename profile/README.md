@@ -47,9 +47,9 @@ Students are expected to keep up with the material as it is released each week, 
 * Online Videos and Readings  
   TO BE COMPLETED **BEFORE** weekly activities
 * Weekly Activities
-  * Lecture   (SF)
+  * Lecture   (SF)  
     This is an activity time in which you will be working on activities with the TA and assignments during this time. Activities can be graded along with attendance. 
-  * Lab       (SF)
+  * Lab       (SF)  
     This is an activity time in which you will be working on activities with the TA and assignments during this time. Activities can be graded along with attendance.
   * Weekly Homework  
     Due at the end of the module
