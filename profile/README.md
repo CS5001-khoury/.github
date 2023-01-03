@@ -4,8 +4,8 @@ Introduces systematic problem solving through programming. Offers students an op
 
 
 ## Document Abbreviations  
-This syllabus is for Spring 2023.
-(V) - Stands for Vancouver Student Online Option
+This syllabus is for Spring 2023.  
+(V) - Stands for Vancouver Student Online Option  
 (SF) - Stands for San Francisco Hybrid Option
 
 We will use these designators to clarify points that are specific to the offerings. Please note, it is not possible to switch between these two sections due to different campus restrictions! 
